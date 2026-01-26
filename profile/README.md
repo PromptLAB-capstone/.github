@@ -1,12 +1,82 @@
-## Hi there 👋
+# 📝 프로젝트 개요
 
-<!--
+## 서비스명
+- **LLM 프롬프트 최적화 및 평가 플랫폼**: **"PromptLAB"**
 
-**Here are some ideas to get you started:**
+### 구현 플랫폼
+- **백엔드**: Java, Spring Boot, Python, FastAPI
+- **프론트엔드**:  
+- **데이터베이스**: PostgreSQL  
+- **서버**: AWS EC2  
+- **기타**: Git, IntelliJ, Docker
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 💡 아이디어 소개
+
+"PromptLAB"은 프롬프트를 입력하여 해당 프롬프트의 품질을 평가하고, 개선 방안을 제안하며 최적화 기능을 제공합니다.
+
+---
+
+## ❤️ 핵심 기능 (MVP)
+
+- **프롬프트 품질 평가 기능**: 정량적·정성적 평가를 통해 해당 프롬프트의 품질을 평가하고, 품질 측면에서 개선된 프롬프트를 제안합니다.
+- **토큰 최적화 기능**: 토큰을 최적화하여 비용을 절감할 수 있도록 도와줍니다.
+- **작업 유형별 최적 모델 추천**: 해당 작업에 가장 적합한 AI모델을 추천합니다.
+
+---
+
+## 💙 세부 기능
+
+1. **프로젝트 관리 페이지**
+    - 동일한 프롬프트를 여러 기능에 활용하는 경우, 관련 활동을 프로젝트 단위로 통합하여 관리합니다.
+
+2. **마이페이지**
+    - 사용자 정보 수정 기능을 제공합니다.
+
+3. **메인페이지**
+    - 핵심 기능 3가지를 이용할 수 있습니다.
+    - 이번 달 활동 요약 정보를 제공하여, 이번 달에 시행한 평가 횟수, 절약한 비용, 프롬프트들의 평균 점수를 안내합니다.
+
+---
+
+## 🚀 Git 컨벤션 규칙
+
+### Commit 규칙
+
+| 타입 이름 | 내용 |
+| --- | --- |
+| feat | 새로운 기능 추가 |
+| fix | 버그 수정 |
+| build | 빌드 및 모듈 설치/삭제 관련 변경 |
+| chore | 기타 자잘한 수정 |
+| ci | CI 설정 수정 |
+| docs | 문서 업데이트 |
+| style | 코드 스타일 및 포맷 수정 |
+| refactor | 코드 리팩토링 |
+| test | 테스트 코드 수정 |
+| perf | 성능 개선 |
+
+#### Commit Message Format
+- **헤더(Header)**: `<타입>(스코프): <주제>`
+- **본문(Body)**: 커밋의 상세 내용 (선택적)
+- **바닥글(Footer)**: 관련 이슈 번호
+
+##### 예시
+```plaintext
+feat (ArticleController): Article 전체 조회 api 추가
+
+전체 조회를 위한 API를 작성하였습니다.
+
+resolve: #21
+```
+
+## 📦 기술 스택
+- Java 11: 애플리케이션 기본 언어
+- Spring Boot: 백엔드 프레임워크
+- Python: 데이터 처리 및 AI 로직
+- FastAPI: Python 기반 경량 API 서버
+- postgreSQL: 데이터 저장소
+- AWS EC2: 배포 서버
+- Docker: 컨테이너화 및 배포 효율화
+- GitHub: 소스 코드 관리
