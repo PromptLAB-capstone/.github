@@ -1,7 +1,7 @@
 # 📝 프로젝트 개요
 
 ## 서비스명
-- **LLM 프롬프트 최적화 및 평가 플랫폼**: **"PromptLAB"**
+- **창업 통합 지원 웹 서비스**: **"PREP"**
 
 ### 구현 플랫폼
 - **백엔드**: Java, Spring Boot, Python, FastAPI
