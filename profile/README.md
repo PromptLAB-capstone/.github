@@ -222,7 +222,7 @@ PREP은 일반 창업 서비스가 아닌
 | -------- | ---------------- | ---------------- |
 | Backend  | API · AI 서버 · DB | [@MunChaerin](https://github.com/MunChaerin) [@leeeemj](https://github.com/leeeemj) [@doxxeon](https://github.com/doxxeon) |
 | Frontend | UI/UX · Client | [@alscodl](https://github.com/alscodl) [@go2001jy](https://github.com/go2001jy) |
-| AI/Data  | 모델 학습 · RAG · 분석 | [@Chaerin](https://github.com/Chaerin) [@leeeemj](https://github.com/leeeemj) [@doxxeon](https://github.com/doxxeon) [@alscodl](https://github.com/alscodl) [@go2001jy](https://github.com/go2001jy) |
+| AI/Data  | 모델 학습 · RAG · 분석 | [@MunChaerin](https://github.com/MunChaerin) [@leeeemj](https://github.com/leeeemj) [@doxxeon](https://github.com/doxxeon) [@alscodl](https://github.com/alscodl) [@go2001jy](https://github.com/go2001jy) |
 
 <br/>
 
