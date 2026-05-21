@@ -220,9 +220,9 @@ PREP은 일반 창업 서비스가 아닌
 
 | 역할 | 담당 | 담당자 |
 | -------- | ---------------- | ---------------- |
-| Backend  | API · AI 서버 · DB | @Chaerin @leeeemj @doxxeon |
-| Frontend | UI/UX · Client | @alscodl @go2001jy |
-| AI/Data  | 모델 학습 · RAG · 분석 | @Chaerin @leeeemj @doxxeon @alscodl @go2001jy |
+| Backend  | API · AI 서버 · DB | [@Chaerin](https://github.com/Chaerin) [@leeeemj](https://github.com/leeeemj) [@doxxeon](https://github.com/doxxeon) |
+| Frontend | UI/UX · Client | [@alscodl](https://github.com/alscodl) [@go2001jy](https://github.com/go2001jy) |
+| AI/Data  | 모델 학습 · RAG · 분석 | [@Chaerin](https://github.com/Chaerin) [@leeeemj](https://github.com/leeeemj) [@doxxeon](https://github.com/doxxeon) [@alscodl](https://github.com/alscodl) [@go2001jy](https://github.com/go2001jy) |
 
 <br/>
 
